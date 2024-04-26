@@ -1,4 +1,4 @@
-//G22940
+
 //メイン
 package kadai3;
 
